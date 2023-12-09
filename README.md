@@ -2,7 +2,7 @@
 Building an interactive dashboard visually showcasing well-curated results of an advanced exploratory analysis conducted in Python.
 
 # Objective
-Determine the factors that influenced house pricing in King County between May 2014 and May 2015.
+Determine the factors that influenced house prices in King County between May 2014 and May 2015.
 
 # Key analyses: 
 * Exploratory analysis through visualizations.
