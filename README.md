@@ -1,9 +1,8 @@
 # Python_KingCountyHouses
-Determining the factors that influenced King County's house pricing between May 2014 and May 2015.
+Building an interactive dashboard visually showcasing well-curated results of an advanced exploratory analysis conducted in Python.
 
 # Objective
-Determine the factors that influenced house pricing between May 2014 and May 2015.
-
+Determine the factors that influenced house pricing in King County between May 2014 and May 2015.
 
 # Key analyses: 
 * Exploratory analysis through visualizations.
