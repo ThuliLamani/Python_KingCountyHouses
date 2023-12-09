@@ -17,7 +17,7 @@ King County House Sales data is available here:[https://www.kaggle.com/datasets/
 
 # Folders
 * Project management: Contains the project brief
-* Data: Contains original data, prepared data and data overview 
+* Data: Contains original data and prepared data
 * Scripts: Contains Python code for the project
 * Analysis: Contains project visualizations
 
